@@ -1,0 +1,402 @@
+# Copyright (C) 2018 Codestructor, Inhaber Marvin Schirrmacher
+msgid ""
+msgstr ""
+"Project-Id-Version: FC Online Theme\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marvin Schirrmacher <marvin.schirrmacher@agile-coding.de>\n"
+"Language-Team: Codestructor <marvin.schirrmacher@codestructor.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: type-registration.php
+msgid "Teams"
+msgstr "Mannschaften"
+
+#: type-registration.php
+msgid "Team"
+msgstr "Mannschaft"
+
+#: type-registration.php
+msgid "All Teams"
+msgstr "Alle Mannschaften"
+
+#: type-registration.php
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: type-registration.php
+msgid "Add New Team"
+msgstr "Neue Mannschaft hinzufügen"
+
+#: type-registration.php
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: type-registration.php
+msgid "Edit Team"
+msgstr "Mannschaft bearbeiten"
+
+#: type-registration.php
+msgid "New Team"
+msgstr "Neue Mannschaft"
+
+#: type-registration.php
+msgid "View"
+msgstr "Anzeigen"
+
+#: type-registration.php
+msgid "View Team"
+msgstr "Mannschaft anzeigen"
+
+#: type-registration.php
+msgid "Search Teams"
+msgstr "Mannschaften durchsuchen"
+
+#: type-registration.php
+msgid "No Teams found"
+msgstr "Keine Mannschaften gefunden"
+
+#: type-registration.php
+msgid "No Teams found in Trash"
+msgstr "Keine Mannschaften im Papierkorb gefunden"
+
+#: type-registration.php
+msgid "Parent Team"
+msgstr "Übergeordnete Mannschaft"
+
+#: type-registration.php
+msgid "teams"
+msgstr "mannschaften"
+
+#: type-registration.php
+msgid "Sections"
+msgstr "Abteilungen"
+
+#: type-registration.php
+msgid "Section"
+msgstr "Abteilung"
+
+#: type-registration.php
+msgid "All Sections"
+msgstr "Alle Abteilungen"
+
+#: type-registration.php
+msgid "Edit Section"
+msgstr "Abteilung bearbeiten"
+
+#: type-registration.php
+msgid "View Section"
+msgstr "Abteilung anzeigen"
+
+#: type-registration.php
+msgid "Update Section"
+msgstr "Abteilung aktualisieren"
+
+#: type-registration.php
+msgid "Add New Section"
+msgstr "Neue Abteilung hinzufügen"
+
+#: type-registration.php
+msgid "New Section Name"
+msgstr "Neuer Abteilungsname"
+
+#: type-registration.php
+msgid "Parent Section"
+msgstr "Übergeordnete Abteilung"
+
+#: type-registration.php
+msgid "Parent Section:"
+msgstr "Übergeordnete Abteilung:"
+
+#: type-registration.php
+msgid "Search Sections"
+msgstr "Abteilungen durchsuchen"
+
+#: type-registration.php
+msgid "Popular Sections"
+msgstr "Beliebte Abteilungen"
+
+#: type-registration.php
+msgid "Seperate sections with commas"
+msgstr "Trenne Abteilungen mit Kommata"
+
+#: type-registration.php
+msgid "Add or remove sections"
+msgstr "Füge hinzu oder entferne Abteilungen"
+
+#: type-registration.php
+msgid "Choose from the most used sections"
+msgstr "Wähle aus den meist verwendeten Abteilungen"
+
+#: type-registration.php
+msgid "No sections found."
+msgstr "Keine Abteilungen gefunden."
+
+#: type-registration.php
+msgid "section"
+msgstr "abteilung"
+
+#: type-registration.php
+msgid "Sponsors"
+msgstr "Sponsoren"
+
+#: type-registration.php
+msgid "Sponsor"
+msgstr "Sponsor"
+
+#: type-registration.php
+msgid "Add New Sponsor"
+msgstr "Neuen Sponsor hinzufügen"
+
+#: type-registration.php
+msgid "Edit Sponsor"
+msgstr "Sponsor bearbeiten"
+
+#: type-registration.php
+msgid "New Sponsor"
+msgstr "Neuer Sponsor"
+
+#: type-registration.php
+msgid "View Sponsor"
+msgstr "Sponsor anzeigen"
+
+#: type-registration.php
+msgid "Search Sponsors"
+msgstr "Sponsoren durchsuchen"
+
+#: type-registration.php
+msgid "No Sponsors found"
+msgstr "Keine Sponsoren gefunden"
+
+#: type-registration.php
+msgid "No Sponsors found in Trash"
+msgstr "Keine Sponsoren im Papierkorb gefunden"
+
+#: type-registration.php
+msgid "Parent Sponsor"
+msgstr "Übergeordneter Sponsor"
+
+#: type-registration.php
+msgid "All Sponsors"
+msgstr "Alle Sponsoren"
+
+#: type-registration.php
+msgid "Sponsor Archives"
+msgstr "Sponsorenarchiv"
+
+#: type-registration.php
+msgid "Add to Sponsor"
+msgstr "Zum Sponsor hinzufügen"
+
+#: type-registration.php
+msgid "sponsors"
+msgstr "sponsoren"
+
+#: type-registration.php
+msgid "Advertising media"
+msgstr "Werbemittel"
+
+#: type-registration.php
+msgid "Advertising medium"
+msgstr "Werbemittel"
+
+#: type-registration.php
+msgid "All advertising media"
+msgstr "Alle Werbemittel"
+
+#: type-registration.php
+msgid "Edit advertising medium"
+msgstr "Werbemittel bearbeiten"
+
+#: type-registration.php
+msgid "View advertising medium"
+msgstr "Werbemittel anzeigen"
+
+#: type-registration.php
+msgid "Update advertising medium"
+msgstr "Werbemittel aktualisieren"
+
+#: type-registration.php
+msgid "Add New advertising medium"
+msgstr "Neues Werbemittel hinzufügen"
+
+#: type-registration.php
+msgid "New advertising medium Name"
+msgstr "Neuer Werbemittelname"
+
+#: type-registration.php
+msgid "Parent advertising medium"
+msgstr "Übergeordnete Werbemittel"
+
+#: type-registration.php
+msgid "Parent advertising medium:"
+msgstr "Übergeordnete Werbemittel:"
+
+#: type-registration.php
+msgid "Search advertising media"
+msgstr "Werbemittel durchsuchen"
+
+#: type-registration.php
+msgid "Popular advertising media"
+msgstr "Beliebte Werbemittel"
+
+#: type-registration.php
+msgid "Seperate advertising media with commas"
+msgstr "Trenne Werbemittel mit Kommata"
+
+#: type-registration.php
+msgid "Add or remove advertising media"
+msgstr "Werbemittel hinzufügen oder entfernen"
+
+#: type-registration.php
+msgid "Choose from the most used advertising media"
+msgstr "Wähle aus den meist verwendeten Werbemittel"
+
+#: type-registration.php
+msgid "No advertising media found."
+msgstr "Keine Werbemittel gefunden."
+
+#: type-registration.php
+msgid "advertising-medium"
+msgstr "werbemittel"
+
+#: type-registration.php
+msgid "Executive"
+msgstr "Vorstandsmitglied"
+
+#: type-registration.php
+msgid "Coach"
+msgstr "Trainer"
+
+#: admin/sponsor.php
+msgid "Contact meta"
+msgstr "Kontaktinformationen"
+
+#: admin/sponsor.php
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/sponsor.php
+msgid "Label"
+msgstr "Name"
+
+#: admin/sponsor.php
+msgid "Street"
+msgstr "Straße"
+
+#: admin/sponsor.php
+msgid "Postcode"
+msgstr "PLZ"
+
+#: admin/sponsor.php
+msgid "City"
+msgstr "Stadt"
+
+#: admin/sponsor.php
+msgid "Contact data"
+msgstr "Kontaktdaten"
+
+#: admin/sponsor.php
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: admin/sponsor.php
+msgid "URL"
+msgstr "URL"
+
+#: admin/sponsor.php
+msgid "Form of address"
+msgstr "Höflichkeitsform"
+
+#: admin/sponsor.php
+msgid "formal"
+msgstr "Siezen"
+
+#: admin/sponsor.php
+msgid "familiar"
+msgstr "Duzen"
+
+#: admin/sponsor.php
+msgid "Hours of business"
+msgstr "Öffnungszeiten"
+
+#: admin/sponsor.php
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+#: admin/sponsor.php
+msgid "Parameters"
+msgstr "Parameter"
+
+#: admin/sponsor.php
+msgid "Gallery"
+msgstr "Gallerie"
+
+#: admin/sponsor.php
+msgid "Logo ID"
+msgstr "Logo-ID"
+
+#: admin/sponsor.php
+msgid "Image IDs"
+msgstr "Bilder-IDs"
+
+#: admin/team.php
+msgid "Meta"
+msgstr "Eckdaten"
+
+#: admin/team.php
+msgid "Competition"
+msgstr "Wettbewerb"
+
+#: admin/team.php
+msgid "League"
+msgstr "Liga"
+
+#: admin/team.php
+msgid "Link"
+msgstr "Link"
+
+#: admin/team.php
+msgid "ID"
+msgstr "ID"
+
+#: admin/team.php
+msgid "Coaches"
+msgstr "Trainer"
+
+#: admin/team.php
+msgid "Players"
+msgstr "Spieler"
+
+#: admin/team.php
+msgid "Age group"
+msgstr "Altersgruppe"
+
+#: admin/team.php
+msgid "Training schedule"
+msgstr "Trainingszeiten"
+
+#: includes/team.php
+msgid "Age Group"
+msgstr "Jahrgang"
+
+#: includes/team.php
+msgid "Sponsor ID"
+msgstr "Sponsoren-ID"
+
+#: includes/sponsor.php
+msgid "How to contact us"
+msgstr "So erreichen Sie uns"
+
+#: includes/sponsor.php
+msgid "Our used advertising media"
+msgstr "Unsere genutzten Medien"
+
+#: includes/sponsor.php
+msgid "Get in touch"
+msgstr "Kontakt aufnehmen"

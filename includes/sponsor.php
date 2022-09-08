@@ -62,7 +62,7 @@ class Sponsor {
 	}
 
 	public static function echoSponsorGallery() {
-		$output = '[gallery columns="4" ids="';
+		$output = '[gallery link="file" columns="4" ids="';
 		$output .= self::getCustomValue('sponsor_gallery_ids');
 		$output .= '"]';
 		echo do_shortcode($output);
